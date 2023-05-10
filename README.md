@@ -2,6 +2,7 @@
 ## subheader
 
 Kent Daligdig
-this is a demos
+BSCS 3
+..
 
 
