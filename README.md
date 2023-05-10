@@ -1,9 +1,12 @@
 # init
+
 ## subheader
 
 Kent Daligdig
-James Klien Pepito
-BSCS 3
-..
 
+this is demo
+
+James Klien Pepito
+
+Added New - James Klien Pepito
 
